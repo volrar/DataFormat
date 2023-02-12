@@ -1,0 +1,19 @@
+{
+  "name": "dataformat",
+  "version": "1.0.0",
+  "description": "IFT458 Dataformat project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volrar/IFT458_DataFormat.git"
+  },
+  "author": "Logan Rupp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volrar/IFT458_DataFormat/issues"
+  },
+  "homepage": "https://github.com/volrar/IFT458_DataFormat#readme"
+}

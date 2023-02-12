@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/volrar/IFT458_DataFormat/issues"
   },
-  "homepage": "https://github.com/volrar/IFT458_DataFormat#readme"
+  "homepage": "https://github.com/volrar/IFT458_DataFormat#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
